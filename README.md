@@ -1,4 +1,4 @@
-# flutter_json_serializable
+# flutter_json_serializable <img src="https://komarev.com/ghpvc/?username=IbsanjU&label=Profile+Views&color=brightgreen&style=plastic" alt="Bharath Kumar R" />
  
 To use "json_serializable" in your package, add these
 dependencies to your `pubspec.yaml`.
